@@ -1,0 +1,76 @@
+html{
+    padding: 50px;
+    margin: 50px;
+    border: 2px solid black;
+    font-family: 'Montserrat', sans-serif;
+   background-color: aliceblue;
+}
+
+.intro{
+    line-height: 70%;
+}
+img {
+    float:right;
+    margin-left:20px;
+    width: 150px;
+    height: 170px;
+  }
+.objective{
+   font-size: 20px;
+   line-height: 130%;
+   text-align: left;
+  }
+  .details{
+    font-size: 20px;
+    line-height: 100%;
+    text-align: left;
+    line-height: 150%;
+  }
+  .line{
+    text-decoration: underline blue;
+  }
+
+  #study {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #study td, #study th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #study tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #study tr:hover {background-color: #ddd;}
+  
+  #study th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: rgb(19, 0, 87);
+    color: white;
+  }
+
+  #study12 {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    width: 100%;
+  }
+  
+  #study12 td, #study th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #study12 tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #study12 tr:hover {background-color: #ddd;}
+  
+  #study12 th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color:  rgb(19, 0, 87);
+    color: white;
+  }
